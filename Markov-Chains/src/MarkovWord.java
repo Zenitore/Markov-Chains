@@ -32,3 +32,4 @@ public class MarkovWord {
         return followers.get((int)(Math.random()*followers.size()));
     }
 }
+

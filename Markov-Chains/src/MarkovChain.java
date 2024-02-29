@@ -1,5 +1,6 @@
 import java.io.FileNotFoundException;
 
+
 public class MarkovChain {
     private MarkovDictionary dictionary;
     private String inputFile;
